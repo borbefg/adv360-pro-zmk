@@ -1,0 +1,9 @@
+cln {
+  bindings = <
+    &trans  &trans  &trans  &trans  &trans  &trans  &trans                                              &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans  &trans                                              &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans  &trans        &trans  &trans  &trans  &trans        &trans  &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans  &trans                        &trans  &trans                        &trans  &trans  &trans  &trans  &trans  &trans
+    &trans  &trans  &trans  &trans  &trans                &trans  &trans  &trans  &trans  &trans  &trans                &trans  &trans  &trans  &trans  &trans
+  >;
+};
